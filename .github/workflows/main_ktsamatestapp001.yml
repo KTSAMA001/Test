@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'KTSAMATestAPP001'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82DDE5F340EE4EC1A96F54BE2F964F37 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_767B1A0A26F7460282F5F38FE5F48DBA }}
           package: .
